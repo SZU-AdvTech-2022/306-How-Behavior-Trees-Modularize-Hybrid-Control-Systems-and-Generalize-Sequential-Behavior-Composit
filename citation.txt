@@ -1,0 +1,9 @@
+@article{REPO-307,
+    author = {Colledanchise, Michele and {\"O}gren, Petter},
+    journal = "IEEE Transactions on robotics",
+    number = "2",
+    pages = "372--389",
+    title = "{How Behavior Trees Modularize Hybrid Control Systems and Generalize Sequential Behavior Compositions, the Subsumption Architecture, and Decision Trees}",
+    volume = "33",
+    year = "2016"
+}
