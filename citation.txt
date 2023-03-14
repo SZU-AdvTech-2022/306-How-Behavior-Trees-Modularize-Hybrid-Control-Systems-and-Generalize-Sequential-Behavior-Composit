@@ -1,4 +1,4 @@
-@article{REPO-307,
+@article{REPO-306,
     author = {Colledanchise, Michele and {\"O}gren, Petter},
     journal = "IEEE Transactions on robotics",
     number = "2",
